@@ -13,6 +13,7 @@ canonifyurls = true
   description = "Train like a pro."
   cover = "images/cover.jpg"
   author = "Nick Humphries"
+  authorimage = "images/nick.jpeg"
   authorlocation = "London, England"
   authorwebsite = "https://traineffective.com"
   bio= "Challenging the status quo everyday. Australian, but played for clubs in Hungary, The Netherlands & Switzerland. Spreading the vision that you can become whatever you put your mind to as founder of TrainEffective.com."
