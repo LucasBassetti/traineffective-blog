@@ -2,7 +2,7 @@
 title: The Secret Weapon of Successful Soccer Players
 date: 2016-09-09T14:24:16.000Z
 ---
-![A pic of me and my mentor Moses taken back in 2010 (whilst he was giving me advice)](/site/static/img/blog/me-and-moses-2.jpg)
+![A pic of me and my mentor Moses taken back in 2010 (whilst he was giving me advice)](/site/static/img/blog/me-and-moses.jpg)
 
 Mentors change lives. It’s that simple. If you have someone who can share their guidance and football experience with you as you grow, you can learn an amazing amount and avoid making the same mistakes they did. It’s no coincidence why so many top-level athletes usually have fathers/mothers or family members that were athletes themselves. However, most people are not that lucky, so how do you find one?
 
