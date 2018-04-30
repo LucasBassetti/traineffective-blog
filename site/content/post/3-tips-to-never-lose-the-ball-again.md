@@ -2,7 +2,7 @@
 title: 3 Tips to Never Lose The Ball Again
 date: '2018-04-30T23:08:21+01:00'
 ---
-![Frank Lampard](/site/frank-lampard-1.jpg)
+![Frank Lampard](/img/blog/frank-lampard-1.jpg)
 
 Best midfielder tips ever? SCANNING. Just like a Tarsier scans for potential prey or predators using their 360 degree vision, former NYCFC midfielder &amp; Chelsea legend Frank Lampard does the same with his scanning ability.
 
@@ -71,8 +71,6 @@ If you're patient and keep doing this consistently, within a few weeks you’ll 
 </ul>
 
 Do you have any tips/hints for scanning or adapting to a faster pace of game? Tell us on <a href="http://snapchat.com/add/traineffective">snapchat</a> and <a href="http://instagram.com/traineffective">instagram</a>!
-
-
 
 Ready for the next tip on improving your intelligence in games? Check out the quick video below!
 
