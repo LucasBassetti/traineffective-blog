@@ -1112,6 +1112,12 @@ body:not(.post-template) .post-title {
     transform: translateX(-50%);
 }
 
+.post-content img + em {
+  font-size: 0.8em;
+  text-align: center;
+  display: block;
+}
+
 /* The author credit area after the post */
 .post-footer {
     position: relative;
